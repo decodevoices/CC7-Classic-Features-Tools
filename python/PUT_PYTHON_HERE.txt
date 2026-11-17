@@ -1,0 +1,2 @@
+Extract python-3.14.10-embed-amd64.zip into this folder so that python.exe is here.
+https://www.python.org/ftp/python/3.14.10/python-3.14.10-embed-amd64.zip
